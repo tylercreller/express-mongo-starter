@@ -1,4 +1,4 @@
-# pbbg (Persistent Browser Based Game)
+# express-mongo-starter
 
 ## Setup
 
