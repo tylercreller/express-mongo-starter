@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "echo Navigate to the /api folder to start executing commands",
+    "dev": "echo Navigate to the /api folder to start executing commands",
+    "dev-seed": "echo Navigate to the /api folder to start executing commands"
+  }
+}
